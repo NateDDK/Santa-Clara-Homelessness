@@ -1,4 +1,4 @@
-﻿notes,year,Total,Sheltered,Unsheltered,ObjectId
+year,Total,Sheltered,Unsheltered,ObjectId
 ,2007,7202,,,1
 ,2009,7086,2103,4983,2
 ,2011,7067,1898,5169,3
@@ -6,6 +6,4 @@
 ,2015,6556,1929,4627,5
 ,2017,7394,1946,5448,6
 ,2019,9706,1784,7922,7
-"Title: Persons experiencing homelessness by shelter status, Santa Clara County",,,,,8
-Note: Data for shelter status are not available for 2007.,,,,,9
-"Source: Santa Clara County Homeless Census & Survey, 2007-2019",,,,,10
+
